@@ -1,0 +1,11 @@
+*.exe
+*.~dfm
+*.~ddp
+*.~pas
+*.dcu
+*.~dpr
+*.ddp
+ComMainForm.pas
+ComMainForm.dfm
+alarmSave.txt
+alarmSave.txt
