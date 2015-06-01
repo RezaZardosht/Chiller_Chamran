@@ -1,0 +1,328 @@
+04/25/2015 01:47:00 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 01:47:00 È.Ù   The Value of ValvePosition=3 Lower than Min
+04/25/2015 01:47:00 È.Ù   The Value of COWOutLetTemp=0 Lower than Min
+04/25/2015 01:51:55 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 01:51:55 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 01:51:56 È.Ù   The Value of COWOutLetTemp=0 Lower than Min
+04/25/2015 01:53:55 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 01:53:55 È.Ù   The Value of ValvePosition=3 Lower than Min
+04/25/2015 01:53:55 È.Ù   The Value of COWOutLetTemp=0 Lower than Min
+04/25/2015 01:56:25 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 01:56:26 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:12:01 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:12:01 È.Ù   The Value of ValvePosition=3 Lower than Min
+04/25/2015 02:16:15 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:16:16 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:22:57 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:22:57 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:23:34 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:23:35 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:26:00 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:26:00 È.Ù   The Value of ValvePosition=3 Lower than Min
+04/25/2015 02:33:56 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:33:56 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:50:37 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:50:37 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:51:31 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:51:31 È.Ù   The Value of ValvePosition=3 Lower than Min
+04/25/2015 02:56:23 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:56:23 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/25/2015 02:58:35 È.Ù   The Value of CHWOutLetTemp=33 Greather than Max
+04/25/2015 02:58:35 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/26/2015 12:47:26 È.Ù   The Value of CHWOutLetTemp=32 Greather than Max
+04/26/2015 12:47:26 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/26/2015 12:52:31 È.Ù   The Value of CHWOutLetTemp=32 Greather than Max
+04/26/2015 12:52:31 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/26/2015 12:53:04 È.Ù   The Value of ValvePosition=2 Lower than Min
+04/26/2015 12:55:09 È.Ù   The Value of CHWOutLetTemp=31 Greather than Max
+04/26/2015 12:56:45 È.Ù   The Value of CowInLetTemp=9 Lower than Min
+04/26/2015 01:13:23 È.Ù   The Value of CHWOutLetTemp=32 Greather than Max
+04/29/2015 04:21:41 È.Ù   The Value of CHWOutLetTemp=98 Greather than Max
+04/29/2015 04:21:41 È.Ù   The Value of HTWOutLetTemp=99 Greather than Max
+04/29/2015 04:21:41 È.Ù   The Value of CHWInLetTemp=10 Lower than Min
+04/29/2015 04:21:42 È.Ù   The Value of HTWInLetTemp=10 Lower than Min
+04/29/2015 04:21:42 È.Ù   The Value of SolutionTemp=90 Greather than Max
+04/29/2015 04:21:42 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+04/29/2015 04:22:05 È.Ù   The Value of CHWOutLetTemp=99 Greather than Max
+04/29/2015 04:25:02 È.Ù   The Value of CHWOutLetTemp=99 Greather than Max
+04/29/2015 04:25:02 È.Ù   The Value of HTWOutLetTemp=99 Greather than Max
+04/29/2015 04:25:02 È.Ù   The Value of CHWInLetTemp=10 Lower than Min
+04/29/2015 04:25:02 È.Ù   The Value of HTWInLetTemp=10 Lower than Min
+04/29/2015 04:25:02 È.Ù   The Value of SolutionTemp=91 Greather than Max
+04/29/2015 04:25:03 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+04/29/2015 04:29:06 È.Ù   The Value of CHWInLetTemp=10 Lower than Min
+04/30/2015 10:28:16 Þ.Ù   The Value of ExhaustTemp=11 Lower than Min
+04/30/2015 10:46:53 Þ.Ù   The Value of CHWOutLetTemp=56 Greather than Max
+04/30/2015 10:47:03 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+04/30/2015 10:48:07 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+04/30/2015 10:48:36 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+05/06/2015 12:26:48 È.Ù   The Value of CHWOutLetTemp=27 Greather than Max
+05/06/2015 12:26:49 È.Ù   The Value of ValvePosition=0 Lower than Min
+05/06/2015 12:42:43 È.Ù   The Flame Failure has alarm
+05/06/2015 12:42:43 È.Ù   The CHW Freezing has alarm
+05/06/2015 12:42:43 È.Ù   The Water Flow has alarm
+05/06/2015 12:42:44 È.Ù   The Value of CHWOutLetTemp=27 Greather than Max
+05/06/2015 12:42:44 È.Ù   The Value of ValvePosition=0 Lower than Min
+05/06/2015 12:42:45 È.Ù   The Ref.Low Temp has alarm
+05/06/2015 12:42:45 È.Ù   The Sol.High Temp has alarm
+05/06/2015 12:42:45 È.Ù   The Ex/Gas High Temp has alarm
+05/06/2015 12:42:45 È.Ù   The HG High Pressure has alarm
+05/06/2015 12:42:45 È.Ù   The Gas Pressure has alarm
+05/06/2015 12:42:45 È.Ù   The HG Low Level has alarm
+05/06/2015 12:42:45 È.Ù   The Sol.Pump Overload has alarm
+05/06/2015 12:42:45 È.Ù   The Ref.Pump Overload has alarm
+05/09/2015 01:17:00 È.Ù   The Value of SolutionTemp=91 Greather than Max
+05/09/2015 01:17:00 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/09/2015 01:17:02 È.Ù   The Value of CHWOutLetTemp=10 Lower than Min
+05/09/2015 01:17:02 È.Ù   The Value of HTWOutLetTemp=10 Lower than Min
+05/14/2015 10:58:47 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+05/14/2015 10:58:48 Þ.Ù   The Ref.Low Temp has alarm
+05/14/2015 10:58:48 Þ.Ù   The Sol.High Temp has alarm
+05/14/2015 10:58:48 Þ.Ù   The Ex/Gas High Temp has alarm
+05/14/2015 10:58:48 Þ.Ù   The HG High Pressure has alarm
+05/14/2015 10:58:48 Þ.Ù   The Gas Pressure has alarm
+05/14/2015 10:58:48 Þ.Ù   The HG Low Level has alarm
+05/14/2015 10:58:48 Þ.Ù   The Sol.Pump Overload has alarm
+05/14/2015 10:58:48 Þ.Ù   The Ref.Pump Overload has alarm
+05/14/2015 10:58:48 Þ.Ù   The Flame Failure has alarm
+05/14/2015 10:58:48 Þ.Ù   The CHW Freezing has alarm
+05/14/2015 10:58:48 Þ.Ù   The Water Flow has alarm
+05/26/2015 10:36:40 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+05/26/2015 10:39:35 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+05/27/2015 10:31:25 Þ.Ù   The Value of ExhaustTemp=10 Lower than Min
+05/27/2015 10:31:25 Þ.Ù   The Ref.Low Temp has alarm
+05/27/2015 10:31:25 Þ.Ù   The Sol.High Temp has alarm
+05/27/2015 10:31:25 Þ.Ù   The Ex/Gas High Temp has alarm
+05/27/2015 10:31:25 Þ.Ù   The HG High Pressure has alarm
+05/27/2015 10:31:26 Þ.Ù   The Gas Pressure has alarm
+05/27/2015 10:31:26 Þ.Ù   The HG Low Level has alarm
+05/27/2015 10:31:26 Þ.Ù   The Sol.Pump Overload has alarm
+05/27/2015 10:31:26 Þ.Ù   The Ref.Pump Overload has alarm
+05/27/2015 10:31:26 Þ.Ù   The Flame Failure has alarm
+05/27/2015 10:31:26 Þ.Ù   The CHW Freezing has alarm
+05/27/2015 10:31:26 Þ.Ù   The Water Flow has alarm
+05/27/2015 01:00:41 È.Ù   The Sol.High Temp has alarm
+05/27/2015 01:00:43 È.Ù   The Value of ExhaustTemp=10 Lower than Min
+05/27/2015 01:01:28 È.Ù   The Sol.High Temp has alarm
+05/28/2015 10:58:42 Þ.Ù   The Value of SolutionTemp=96 Greather than Max
+05/28/2015 10:58:42 Þ.Ù   The Ref.Low Temp has alarm
+05/28/2015 10:58:42 Þ.Ù   The Sol.High Temp has alarm
+05/28/2015 10:58:42 Þ.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 10:58:42 Þ.Ù   The HG High Pressure has alarm
+05/28/2015 10:58:43 Þ.Ù   The Gas Pressure has alarm
+05/28/2015 10:58:43 Þ.Ù   The HG Low Level has alarm
+05/28/2015 10:58:43 Þ.Ù   The Sol.Pump Overload has alarm
+05/28/2015 10:58:43 Þ.Ù   The Ref.Pump Overload has alarm
+05/28/2015 10:58:43 Þ.Ù   The Flame Failure has alarm
+05/28/2015 10:58:43 Þ.Ù   The CHW Freezing has alarm
+05/28/2015 10:58:43 Þ.Ù   The Water Flow has alarm
+05/28/2015 10:58:44 Þ.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 11:24:05 Þ.Ù   The Ref.Low Temp has alarm
+05/28/2015 11:24:05 Þ.Ù   The Sol.High Temp has alarm
+05/28/2015 11:24:05 Þ.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 11:24:05 Þ.Ù   The HG High Pressure has alarm
+05/28/2015 11:24:05 Þ.Ù   The Gas Pressure has alarm
+05/28/2015 11:24:05 Þ.Ù   The HG Low Level has alarm
+05/28/2015 11:24:05 Þ.Ù   The Sol.Pump Overload has alarm
+05/28/2015 11:24:05 Þ.Ù   The Ref.Pump Overload has alarm
+05/28/2015 11:24:05 Þ.Ù   The Flame Failure has alarm
+05/28/2015 11:24:05 Þ.Ù   The CHW Freezing has alarm
+05/28/2015 11:24:05 Þ.Ù   The Water Flow has alarm
+05/28/2015 11:24:07 Þ.Ù   The Value of SolutionTemp=96 Greather than Max
+05/28/2015 11:24:07 Þ.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 12:01:58 È.Ù   The Value of SolutionTemp=95 Greather than Max
+05/28/2015 12:01:58 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 12:01:58 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 12:01:58 È.Ù   The Sol.High Temp has alarm
+05/28/2015 12:01:58 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 12:01:58 È.Ù   The HG High Pressure has alarm
+05/28/2015 12:01:58 È.Ù   The Gas Pressure has alarm
+05/28/2015 12:01:58 È.Ù   The HG Low Level has alarm
+05/28/2015 12:01:58 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 12:01:58 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 12:01:59 È.Ù   The Flame Failure has alarm
+05/28/2015 12:01:59 È.Ù   The CHW Freezing has alarm
+05/28/2015 12:01:59 È.Ù   The Water Flow has alarm
+05/28/2015 12:18:45 È.Ù   The Value of SolutionTemp=95 Greather than Max
+05/28/2015 12:18:45 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 12:18:45 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 12:18:45 È.Ù   The Sol.High Temp has alarm
+05/28/2015 12:18:46 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 12:18:46 È.Ù   The HG High Pressure has alarm
+05/28/2015 12:18:46 È.Ù   The Gas Pressure has alarm
+05/28/2015 12:18:46 È.Ù   The HG Low Level has alarm
+05/28/2015 12:18:46 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 12:18:46 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 12:18:46 È.Ù   The Flame Failure has alarm
+05/28/2015 12:18:46 È.Ù   The CHW Freezing has alarm
+05/28/2015 12:18:46 È.Ù   The Water Flow has alarm
+05/28/2015 12:47:02 È.Ù   The Value of CHWOutLetTemp=13 Greather than Max
+05/28/2015 12:47:14 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 12:47:28 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 12:47:30 È.Ù   The Value of CHWOutLetTemp=13 Greather than Max
+05/28/2015 12:48:24 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 12:48:29 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 12:56:42 È.Ù   The Sol.High Temp has alarm
+05/28/2015 12:56:43 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 12:57:53 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 12:57:59 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 01:03:48 È.Ù   The Value of SolutionTemp=93 Greather than Max
+05/28/2015 01:03:49 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 01:03:49 È.Ù   The Sol.High Temp has alarm
+05/28/2015 01:03:49 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 01:03:49 È.Ù   The HG High Pressure has alarm
+05/28/2015 01:03:49 È.Ù   The Gas Pressure has alarm
+05/28/2015 01:03:49 È.Ù   The HG Low Level has alarm
+05/28/2015 01:03:49 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 01:03:49 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 01:03:49 È.Ù   The Flame Failure has alarm
+05/28/2015 01:03:49 È.Ù   The CHW Freezing has alarm
+05/28/2015 01:03:49 È.Ù   The Water Flow has alarm
+05/28/2015 01:08:23 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 01:08:24 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 01:08:24 È.Ù   The Sol.High Temp has alarm
+05/28/2015 01:08:24 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 01:08:24 È.Ù   The HG High Pressure has alarm
+05/28/2015 01:08:24 È.Ù   The Gas Pressure has alarm
+05/28/2015 01:08:24 È.Ù   The HG Low Level has alarm
+05/28/2015 01:08:24 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 01:08:24 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 01:08:24 È.Ù   The Flame Failure has alarm
+05/28/2015 01:08:24 È.Ù   The CHW Freezing has alarm
+05/28/2015 01:08:24 È.Ù   The Water Flow has alarm
+05/28/2015 01:08:38 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 01:08:42 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 01:09:38 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 01:16:46 È.Ù   The Value of SolutionTemp=94 Greather than Max
+05/28/2015 01:16:46 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 01:16:46 È.Ù   The Sol.High Temp has alarm
+05/28/2015 01:16:46 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 01:16:46 È.Ù   The HG High Pressure has alarm
+05/28/2015 01:16:46 È.Ù   The Gas Pressure has alarm
+05/28/2015 01:16:47 È.Ù   The HG Low Level has alarm
+05/28/2015 01:16:47 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 01:16:47 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 01:16:47 È.Ù   The Flame Failure has alarm
+05/28/2015 01:16:47 È.Ù   The CHW Freezing has alarm
+05/28/2015 01:16:47 È.Ù   The Water Flow has alarm
+05/28/2015 01:19:40 È.Ù   The Value of SolutionTemp=93 Greather than Max
+05/28/2015 01:19:40 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 01:19:40 È.Ù   The Sol.High Temp has alarm
+05/28/2015 01:19:40 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 01:19:40 È.Ù   The HG High Pressure has alarm
+05/28/2015 01:19:41 È.Ù   The Gas Pressure has alarm
+05/28/2015 01:19:41 È.Ù   The HG Low Level has alarm
+05/28/2015 01:19:41 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 01:19:41 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 01:19:41 È.Ù   The Flame Failure has alarm
+05/28/2015 01:19:41 È.Ù   The CHW Freezing has alarm
+05/28/2015 01:19:41 È.Ù   The Water Flow has alarm
+05/28/2015 01:27:12 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 01:27:14 È.Ù   The Value of ValvePosition=65282 Greather than Max
+05/28/2015 01:27:17 È.Ù   The Flame Failure has alarm
+05/28/2015 01:27:27 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 01:27:27 È.Ù   The Flame Failure has alarm
+05/28/2015 01:27:28 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 01:27:28 È.Ù   The Value of ValvePosition=65282 Greather than Max
+05/28/2015 01:27:28 È.Ù   The Sol.High Temp has alarm
+05/28/2015 01:27:28 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 03:18:10 È.Ù   The HG Low Level has alarm
+05/28/2015 03:18:10 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 03:18:10 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 03:18:10 È.Ù   The Flame Failure has alarm
+05/28/2015 03:18:10 È.Ù   The CHW Freezing has alarm
+05/28/2015 03:18:10 È.Ù   The Water Flow has alarm
+05/28/2015 03:18:12 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 03:18:12 È.Ù   The Sol.High Temp has alarm
+05/28/2015 03:18:12 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 03:18:12 È.Ù   The HG High Pressure has alarm
+05/28/2015 03:18:12 È.Ù   The Gas Pressure has alarm
+05/28/2015 03:19:13 È.Ù   The Value of CHWOutLetTemp=13 Lower than Min
+05/28/2015 03:19:34 È.Ù   The Value of CHWOutLetTemp=13 Lower than Min
+05/28/2015 03:24:59 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 03:24:59 È.Ù   The Flame Failure has alarm
+05/28/2015 03:24:59 È.Ù   The CHW Freezing has alarm
+05/28/2015 03:24:59 È.Ù   The Water Flow has alarm
+05/28/2015 03:25:01 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 03:25:01 È.Ù   The Sol.High Temp has alarm
+05/28/2015 03:25:01 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 03:25:01 È.Ù   The HG High Pressure has alarm
+05/28/2015 03:25:01 È.Ù   The Gas Pressure has alarm
+05/28/2015 03:25:01 È.Ù   The HG Low Level has alarm
+05/28/2015 03:25:01 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 03:40:33 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 03:40:33 È.Ù   The Sol.High Temp has alarm
+05/28/2015 03:40:33 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 03:40:33 È.Ù   The HG High Pressure has alarm
+05/28/2015 03:40:33 È.Ù   The Gas Pressure has alarm
+05/28/2015 03:40:33 È.Ù   The HG Low Level has alarm
+05/28/2015 03:40:34 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 03:40:34 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 03:40:34 È.Ù   The Flame Failure has alarm
+05/28/2015 03:40:34 È.Ù   The CHW Freezing has alarm
+05/28/2015 03:40:34 È.Ù   The Water Flow has alarm
+05/28/2015 03:40:36 È.Ù   The Value of ExhaustTemp=11 Lower than Min
+05/28/2015 03:41:05 È.Ù   The CHW Freezing has alarm
+05/28/2015 03:41:10 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 03:41:11 È.Ù   The HG Low Level has alarm
+05/28/2015 03:55:12 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 03:55:12 È.Ù   The Sol.High Temp has alarm
+05/28/2015 03:55:12 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 03:55:12 È.Ù   The HG High Pressure has alarm
+05/28/2015 03:55:12 È.Ù   The Gas Pressure has alarm
+05/28/2015 03:55:12 È.Ù   The HG Low Level has alarm
+05/28/2015 03:55:12 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 03:55:12 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 03:55:12 È.Ù   The Flame Failure has alarm
+05/28/2015 03:55:12 È.Ù   The CHW Freezing has alarm
+05/28/2015 03:55:12 È.Ù   The Water Flow has alarm
+05/28/2015 04:00:24 È.Ù   The Ref.Low Temp has alarm
+05/28/2015 04:00:24 È.Ù   The Sol.High Temp has alarm
+05/28/2015 04:00:24 È.Ù   The Ex/Gas High Temp has alarm
+05/28/2015 04:00:28 È.Ù   The HG High Pressure has alarm
+05/28/2015 04:00:28 È.Ù   The Gas Pressure has alarm
+05/28/2015 04:00:28 È.Ù   The HG Low Level has alarm
+05/28/2015 04:00:28 È.Ù   The Sol.Pump Overload has alarm
+05/28/2015 04:00:28 È.Ù   The Ref.Pump Overload has alarm
+05/28/2015 04:00:28 È.Ù   The Flame Failure has alarm
+05/28/2015 04:00:28 È.Ù   The CHW Freezing has alarm
+05/28/2015 04:00:28 È.Ù   The Water Flow has alarm
+05/28/2015 04:00:51 È.Ù   The Ref.Low Temp has alarm
+06/01/2015 09:42:38 Þ.Ù   The Ref.Low Temp has alarm
+06/01/2015 09:42:38 Þ.Ù   The Sol.High Temp has alarm
+06/01/2015 09:42:38 Þ.Ù   The Ex/Gas High Temp has alarm
+06/01/2015 09:42:38 Þ.Ù   The HG High Pressure has alarm
+06/01/2015 09:42:38 Þ.Ù   The Gas Pressure has alarm
+06/01/2015 09:42:38 Þ.Ù   The HG Low Level has alarm
+06/01/2015 09:42:38 Þ.Ù   The Sol.Pump Overload has alarm
+06/01/2015 09:42:38 Þ.Ù   The Ref.Pump Overload has alarm
+06/01/2015 09:42:38 Þ.Ù   The Flame Failure has alarm
+06/01/2015 09:42:38 Þ.Ù   The CHW Freezing has alarm
+06/01/2015 09:42:38 Þ.Ù   The Water Flow has alarm
+06/01/2015 09:42:39 Þ.Ù   The Value of SolutionTemp=96 Greather than Max
+06/01/2015 09:49:11 Þ.Ù   The Value of CHWOutLetTemp=13 Greather than Max
+06/01/2015 09:49:34 Þ.Ù   The Value of CHWOutLetTemp=13 Greather than Max
+06/01/2015 02:07:35 È.Ù   The Ref.Low Temp has alarm
+06/01/2015 02:07:35 È.Ù   The Sol.High Temp has alarm
+06/01/2015 02:07:36 È.Ù   The Ex/Gas High Temp has alarm
+06/01/2015 02:07:36 È.Ù   The HG High Pressure has alarm
+06/01/2015 02:07:36 È.Ù   The Gas Pressure has alarm
+06/01/2015 02:07:36 È.Ù   The HG Low Level has alarm
+06/01/2015 02:07:36 È.Ù   The Sol.Pump Overload has alarm
+06/01/2015 02:07:36 È.Ù   The Ref.Pump Overload has alarm
+06/01/2015 02:07:36 È.Ù   The Flame Failure has alarm
+06/01/2015 02:07:36 È.Ù   The CHW Freezing has alarm
+06/01/2015 02:07:36 È.Ù   The Water Flow has alarm
+06/01/2015 02:21:39 È.Ù   The Ref.Low Temp has alarm
+06/01/2015 02:22:29 È.Ù   The Water Flow has alarm
+06/01/2015 02:22:31 È.Ù   The Ref.Low Temp has alarm
+06/01/2015 02:22:31 È.Ù   The Sol.High Temp has alarm
+06/01/2015 02:22:31 È.Ù   The Ex/Gas High Temp has alarm
+06/01/2015 02:22:31 È.Ù   The HG High Pressure has alarm
+06/01/2015 02:22:31 È.Ù   The Gas Pressure has alarm
+06/01/2015 02:22:31 È.Ù   The HG Low Level has alarm
+06/01/2015 02:22:31 È.Ù   The Sol.Pump Overload has alarm
+06/01/2015 02:22:31 È.Ù   The Ref.Pump Overload has alarm
+06/01/2015 02:22:31 È.Ù   The Flame Failure has alarm
+06/01/2015 02:22:31 È.Ù   The CHW Freezing has alarm
+06/01/2015 02:46:23 È.Ù   The Value of ValvePosition=65282 Greather than Max
