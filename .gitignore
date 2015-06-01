@@ -5,3 +5,7 @@
 *.dcu
 *.~dpr
 *.ddp
+ComMainForm.pas
+ComMainForm.dfm
+alarmSave.txt
+alarmSave.txt

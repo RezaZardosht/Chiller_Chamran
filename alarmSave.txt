@@ -325,4 +325,3 @@
 06/01/2015 02:22:31 È.Ù   The Ref.Pump Overload has alarm
 06/01/2015 02:22:31 È.Ù   The Flame Failure has alarm
 06/01/2015 02:22:31 È.Ù   The CHW Freezing has alarm
-06/01/2015 02:46:23 È.Ù   The Value of ValvePosition=65282 Greather than Max
