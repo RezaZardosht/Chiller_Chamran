@@ -5,7 +5,8 @@
 *.dcu
 *.~dpr
 *.ddp
-ComMainForm.pas
-ComMainForm.dfm
-alarmSave.txt
-alarmSave.txt
+*.rar
+*.LCK
+*.NET
+*.zip
+*.dll

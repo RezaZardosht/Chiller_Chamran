@@ -1,0 +1,186 @@
+unit ULoger;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  Db, DBTables,Glf,Glx,Grids, DBGrids, StdCtrls, Buttons, Mask;
+
+type
+  TFLoger = class(TForm)
+    TLOG: TTable;
+    DBGrid1: TDBGrid;
+    DLOG: TDataSource;
+    BHide: TBitBtn;
+    Label1: TLabel;
+    EDate: TMaskEdit;
+    Label2: TLabel;
+    Label3: TLabel;
+    ETime: TMaskEdit;
+    BFind: TBitBtn;
+    BGraph: TBitBtn;
+    EPlc: TEdit;
+    StopLoger: TBitBtn;
+    TLOGPlcBit: TSmallintField;
+    TLOGEventTime: TFloatField;
+    TLOGSType: TSmallintField;
+    TLOGValue: TSmallintField;
+    procedure TLOGCalcFields(DataSet: TDataSet);
+    procedure BHideClick(Sender: TObject);
+    procedure BFindClick(Sender: TObject);
+    procedure BGraphClick(Sender: TObject);
+    procedure StopLogerClick(Sender: TObject);
+  private
+    procedure SLog(var Msg: TMessage); Message SIGNAL_LOG;
+    Procedure GoActive(var Msg: TMessage);Message SET_ACTIVE;
+  public
+    Constructor Create(AOwner: TComponent);override;
+  end;
+
+var
+  FLoger: TFLoger;
+
+implementation
+
+{$R *.DFM}
+
+Constructor TFLoger.Create(AOwner: TComponent);
+begin
+  inherited Create(AOwner);
+  Visible := False;
+  if Not TLog.Active then
+    TLog.Active := True;
+end;
+
+Procedure TFLoger.GoActive(var Msg: TMessage);
+begin
+  Visible := True;
+  BringToFront;
+end;
+
+procedure TFLoger.TLOGCalcFields(DataSet: TDataSet);
+var
+  SmType:   SysSignal;
+  ss,sv:        String;
+  av:       AnalogValue;
+  dt:       TDateTime;
+begin
+   SmType := TLog['SType'];
+   av := TLog['Value'];
+   dt := TLog['EventTime'];
+   case SmType of
+     DIGITAL_INPUT:
+       begin
+          ss := 'Digital Input';
+          if av = 0 then
+            sv := 'Not Active'
+          else
+            sv := 'Active';
+       end;
+     DIGITAL_OUTPUT:
+       begin
+          ss := 'Digital Output';
+          if av = 0 then
+            sv := 'Not Active'
+          else
+            sv := 'Active';
+       end;
+     ANALOG_INPUT:
+       begin
+         ss := 'Analog Input';
+         sv := IntToStr(av);
+       end;
+     ANALOG_OUTPUT:
+       begin
+         ss := 'Analog Output';
+         sv := IntToStr(av);
+       end;
+     else             ss := '';
+   end;
+   TLog['Evalue'] := sv;
+//   TLog['SignalType'] := ss;
+   TLog['EDate'] := DateToStr(dt);
+   TLog['ETime'] := TimeToStr(dt);
+end;
+procedure TFLoger.SLog(var Msg: TMessage);
+var
+  p:  LogerPoint;
+begin
+  p := itop(Msg.LParam);
+  try
+    TLog.Insert;
+    TLog['PlcBit'] := p.PlcBit;
+    TLog['EventTime'] := p.EventTime;
+    TLog['SType'] := p.SignalType;
+//    TLog['CName'] := p.ContainerName;
+//    TLog['SName'] := p.SignalName;
+    TLog['Value'] := p.ADValue;
+    TLog.post;
+  except
+    TLog.Cancel;
+  end;
+  Dispose(p);
+end;
+
+procedure TFLoger.BHideClick(Sender: TObject);
+begin
+  Hide;//  WindowState := wsMinimized;
+end;
+
+procedure TFLoger.BFindClick(Sender: TObject);
+var
+  d,t:  TDateTime;
+  b:  PlcAddress;
+  bFlag,dFlag,tFlag:  Boolean;
+begin
+  bFlag := True;
+  dFlag := True;
+  tFlag := True;
+  try
+    b := StrToInt(EPlc.Text);
+  Except
+    bflag := False;
+  end;
+  try
+    d := StrToDate(EDate.Text);
+  Except
+    dFlag := False;
+    tflag := False;
+  end;
+  if TFlag then
+    try
+      t := StrToTime(ETime.Text);
+    Except
+      tFlag := False;
+    end;
+  if bFlag then
+    begin
+      TLOG.SetKey;
+      TLOG['PlcBit'] := b;
+      if tFlag then
+        d := d + t;
+      if dFlag then
+        TLog['EventTime'] := d;
+      TLOG.GotoNearest;
+    end;
+end;
+
+procedure TFLoger.BGraphClick(Sender: TObject);
+begin
+  if TLog.IndexName = '' then
+    TLog.IndexName := 'DTBidx'
+  else
+    TLog.IndexName := '';
+end;
+
+
+procedure TFLoger.StopLogerClick(Sender: TObject);
+begin
+     if Dbgrid1.DefaultDrawing=False then
+        Dbgrid1.DefaultDrawing:=True
+     else
+        Dbgrid1.DefaultDrawing:=False
+
+end;
+
+end.

@@ -1,0 +1,32 @@
+program PreHtr;
+
+uses
+  Forms,
+  Windows,
+  Glf,
+  UExit in 'UExit.pas' {FExit},
+  UMsg in '..\Scout\Types\UMsg.pas' {FMsg},
+  ULoger in 'ULoger.pas' {FLoger},
+  UPreHtr in 'UPreHtr.pas' {FPreHtr},
+  UKeyVal in '..\Scout\Utils\Ukeyval.pas' {FKeyVal};
+
+{$R *.RES}
+{$R Siman.RES}
+begin
+  if FindWindow('TFPreHtr','FPreHtr') <= 0 then
+   begin
+  Application.Initialize;
+  Screen.Cursors[1] := LoadCursorFromFile('c:\Scout\Package\Rect.cur');
+  Application.CreateForm(TFPreHtr, FPreHtr);
+  Application.CreateForm(TFLoger, FLoger);
+  Application.CreateForm(TFExit, FExit);
+  Application.CreateForm(TFMsg, FMsg);
+  Application.CreateForm(TFKeyVal, FKeyVal);
+  Application.HintHidePause := 30000;
+  Application.HintPause := 200;
+  Application.Tag := 5;
+  SysLink(Application);
+  FPreHtr.Assign_PopUpMenu;
+  Application.Run;
+    end;
+end.

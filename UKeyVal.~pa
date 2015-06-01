@@ -1,0 +1,84 @@
+unit UKeyVal;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  Db, Grids, DBGrids, DBTables,Glf,glx;
+
+type
+  TFKeyVal = class(TForm)
+    TKeyVal: TTable;
+    TKeyValCName: TStringField;
+    TKeyValKeyNum: TSmallintField;
+    TKeyValValue1: TIntegerField;
+    TKeyValValue2: TIntegerField;
+    TKeyValSName: TStringField;
+    Session1: TSession;
+    Session2: TSession;
+    TKeyValShowHint: TStringField;
+    procedure FormCreate(Sender: TObject);
+  private
+    procedure FindKey(var Msg: TMessage);Message READ_KEY;
+  public
+    Constructor Create(AOwner: TComponent);Override;
+  end;
+
+var
+  FKeyVal: TFKeyVal;
+
+implementation
+
+{$R *.DFM}
+
+Constructor TFKeyVal.Create(AOwner: TComponent);
+begin
+  Inherited Create(AOwner);
+  if Not TKeyVal.Active then
+     TKeyVal.Active := True;
+end;
+
+procedure TFKeyVal.FindKey(var Msg: TMessage);
+var
+  p:  KeyValPoint;
+begin
+  p := itop(Msg.LParam);
+  TKeyVal.SetKey;
+  TKeyVal['CName'] := p.ContainerName;
+  TKeyVal['SName'] := p.SignalName;
+  TKeyVal['KeyNum'] := Msg.WParam;
+  try
+    if TKeyVal.GoToKey then
+      begin
+        Msg.Result := 0;
+        p.Value1 := TKeyVal['Value1'];
+        p.Value2 := TKeyVal['Value2'];
+        p.Text   := FKeyVal.TKeyValShowHint.AsString;
+      end
+    else
+      Msg.Result := 1;
+   except
+     showmessage('p:='+p.ContainerName+';s:='+p.SignalName);
+   end;
+end;
+
+procedure TFKeyVal.FormCreate(Sender: TObject);
+begin
+//\\PriNtServ\KeyVal
+     try
+        TKeyval.Active:=True
+     except
+       try
+          Session2.Active:=True;
+          tkeyval.SessionName:='BackSession';
+          Tkeyval.databasename:='\\BkNtServ\d\xKeyVal';
+          TKeyval.Active:=True
+       except
+          showmessage('cant connect to nt keyval');
+          application.Terminate;
+       end;
+     end;
+
+end;
+
+end.
