@@ -163,6 +163,7 @@ type
     Label25: TLabel;
     Label26: TLabel;
     Label27: TLabel;
+    Image1: TImage;
     procedure Button3Click(Sender: TObject);
     procedure Button7Click(Sender: TObject);
     procedure Button1Click(Sender: TObject);

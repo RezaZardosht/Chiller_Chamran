@@ -325,3 +325,25 @@
 06/01/2015 02:22:31 È.Ù   The Ref.Pump Overload has alarm
 06/01/2015 02:22:31 È.Ù   The Flame Failure has alarm
 06/01/2015 02:22:31 È.Ù   The CHW Freezing has alarm
+06/07/2015 11:10:29 Þ.Ù   The Ref.Low Temp has alarm
+06/07/2015 11:10:29 Þ.Ù   The Sol.High Temp has alarm
+06/07/2015 11:10:29 Þ.Ù   The Ex/Gas High Temp has alarm
+06/07/2015 11:10:29 Þ.Ù   The HG High Pressure has alarm
+06/07/2015 11:10:29 Þ.Ù   The Gas Pressure has alarm
+06/07/2015 11:10:30 Þ.Ù   The HG Low Level has alarm
+06/07/2015 11:10:30 Þ.Ù   The Sol.Pump Overload has alarm
+06/07/2015 11:10:30 Þ.Ù   The Ref.Pump Overload has alarm
+06/07/2015 11:10:30 Þ.Ù   The Flame Failure has alarm
+06/07/2015 11:10:30 Þ.Ù   The CHW Freezing has alarm
+06/07/2015 11:10:30 Þ.Ù   The Water Flow has alarm
+06/07/2015 12:05:02 È.Ù   The Ref.Low Temp has alarm
+06/07/2015 12:05:02 È.Ù   The Sol.High Temp has alarm
+06/07/2015 12:05:02 È.Ù   The Ex/Gas High Temp has alarm
+06/07/2015 12:05:03 È.Ù   The HG High Pressure has alarm
+06/07/2015 12:05:03 È.Ù   The Gas Pressure has alarm
+06/07/2015 12:05:03 È.Ù   The HG Low Level has alarm
+06/07/2015 12:05:03 È.Ù   The Sol.Pump Overload has alarm
+06/07/2015 12:05:03 È.Ù   The Ref.Pump Overload has alarm
+06/07/2015 12:05:03 È.Ù   The Flame Failure has alarm
+06/07/2015 12:05:03 È.Ù   The CHW Freezing has alarm
+06/07/2015 12:05:03 È.Ù   The Water Flow has alarm
